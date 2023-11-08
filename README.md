@@ -1,5 +1,6 @@
 <h1 align="center">Olá! Sou o Pedro Frias</h1>
 <h3 align="center">Sou analista de dados e desenvolvedor de sistemas, estudo atualmente na UFABC - Universidade Federal do ABC !</h3>
+<a href="https://linkedin.com/in/https://br.linkedin.com/in/pedro-henrique-frias-bertazzo-7b504a18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/pedro-henrique-frias-bertazzo-7b504a18b" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-frias&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-frias" /> </p>
 
